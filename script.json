@@ -1,0 +1,34 @@
+{
+  "panels": [
+    {
+      "panel": 1,
+      "description": "Close-up on Isagi, mid-reaction. His eyes widen in confusion, brows slightly furrowed. He's clad in detailed training gear, rendered with sharp black ink lines. Slight speed lines imply his sudden halt. Black and white ink style.",
+      "dialogue": [
+        {
+          "character": "Isagi",
+          "text": "…Huh?"
+        }
+      ]
+    },
+    {
+      "panel": 2,
+      "description": "Mid-shot of Isagi, face tight with concentration, brow furrowed deeper. He's lost in thought, heavy shadows under his brow emphasizing his internal struggle. Hatching on his uniform shows subtle tension. Black and white ink style.",
+      "dialogue": [
+        {
+          "character": "Isagi",
+          "text": "You mean… like Zico… or Maradona?"
+        }
+      ]
+    },
+    {
+      "panel": 3,
+      "description": "Large, impactful low-angle shot. Ego Jinpachi stands silhouetted against a stark night sky, hands in pockets. His glasses gleam with sharp highlights, obscuring his eyes as he stares down. Heavy shadows define his composed, unnerving posture. Black and white ink style.",
+      "dialogue": [
+        {
+          "character": "Ego Jinpachi",
+          "text": "Yoichi Isagi… do you believe there is a God of soccer?"
+        }
+      ]
+    }
+  ]
+}
